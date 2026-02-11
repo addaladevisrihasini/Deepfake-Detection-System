@@ -1,0 +1,8 @@
+dataset_raw/
+processed/
+frames/
+faces/
+*.h5
+*.jpg
+__pycache__/
+.DS_Store
